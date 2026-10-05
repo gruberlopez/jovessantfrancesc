@@ -52,4 +52,4 @@ footer{padding:24px 4%;gap:20px}footer p{font:500 17px 'DM Sans',sans-serif}foot
 }
 @media(max-width:390px){.brand span{font-size:11px}.brand img{width:68px;height:68px}.languages{gap:5px}nav{gap:14px;font-size:13px}.pillars{grid-template-columns:1fr}.church-photos{grid-template-columns:1fr}.church-photos img,.church-photos figure:first-child img{height:340px}.gallery{grid-template-columns:1fr}.gallery .wide{grid-column:auto}}
 
-.contact-actions{flex-wrap:wrap;gap:14px}.whatsapp{text-align:center}.whatsapp .whatsapp-label,.whatsapp .whatsapp-number{display:block;margin-left:0}.whatsapp-number{font-size:15px;font-weight:500;margin-top:3px;letter-spacing:.5px}
+.contact-actions{flex-wrap:wrap;gap:14px}.whatsapp{text-align:center;white-space:nowrap}.whatsapp-contact{margin-top:30px}.whatsapp-heading{font-size:18px;margin-bottom:12px}.whatsapp-contact .contact-actions{margin-top:0}.image-stamp>span{display:block;white-space:nowrap;font-size:15px;line-height:1.4;letter-spacing:1px}.hero-bottom strong{font-weight:700;color:var(--ivory)}
